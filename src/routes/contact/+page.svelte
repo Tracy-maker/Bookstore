@@ -113,7 +113,7 @@
   .container {
     display: flex;
     gap: 2rem;
-    max-width: 1400px; /* Increased max width */
+    max-width: 1400px; 
     width: 100%;
   }
 
@@ -124,7 +124,7 @@
     padding: 2rem;
     border-radius: 1rem;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    max-width: 600px; /* Increased container width */
+    max-width: 600px; 
   }
 
   .form-container h2,
