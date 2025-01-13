@@ -4,7 +4,7 @@
 
 <header>
   <div class="logo-container">
-    <a href="/home">
+    <a href="/">
       <span>BookBloom</span>
     </a>
   </div>

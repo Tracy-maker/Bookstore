@@ -4,7 +4,7 @@
     function goToHomePage() {
       containerStyle = "transform: translateX(200px); opacity: 0;";
       setTimeout(() => {
-        window.location.href = "http://localhost:5173/";
+        window.location.href = "http://localhost:5173/home";
       }, 1000); // Adding delay for the animation effect
     }
   </script>
