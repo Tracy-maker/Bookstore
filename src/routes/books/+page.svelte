@@ -191,7 +191,7 @@
   .content {
     flex: 1;
     padding: 2rem;
-    background-color: #e9f5f2;
+    background-color: #a4c3bb;
     color: #1a292e;
   }
 

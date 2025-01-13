@@ -106,7 +106,7 @@
     justify-content: center;
     align-items: center;
     padding: 2rem;
-    background: #ffe3f1;
+    background: #f899c9;
     min-height: calc(100vh - 50px);
   }
 
